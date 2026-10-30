@@ -48,21 +48,21 @@ Run `run.sh`
 
 ```bash
 cd /path/to/YAAAS
-./run.bat --nogui --out /path/to/output /path/to/input
+./run.bat --nogui --out /path/to/output /path/to/input.txt
 ```
 
 **Linux (Native):**
 
 ```bash
 cd /path/to/YAAAS
-./run_linux.sh --nogui --out /path/to/output /path/to/input
+./run_linux.sh --nogui --out /path/to/output /path/to/input.txt
 ```
 
 **Linux (Distrobox):**
 
 ```bash
 cd /path/to/YAAAS
-./run.sh --nogui --out /path/to/output /path/to/input
+./run.sh --nogui --out /path/to/output /path/to/input.txt
 ```
 
 ## CLI options
